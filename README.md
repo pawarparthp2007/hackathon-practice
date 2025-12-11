@@ -1,2 +1,5 @@
-# hackathon-practice
-Solutions to Past Hackathons
+# Hackathons
+
+Solutions to Past Hackathons, solved by members of QC @ IITI
+
+
